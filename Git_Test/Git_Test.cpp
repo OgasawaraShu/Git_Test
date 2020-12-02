@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "Hello Git!\n";
 
-    std::cout << "新規で追加\n";
+    std::cout << "新規で２追加\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
