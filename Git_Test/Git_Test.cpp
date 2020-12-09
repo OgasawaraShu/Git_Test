@@ -3,11 +3,9 @@
 
 #include <iostream>
 
-int main()
+int   main（）
 {
-    std::cout << "Hello Git!\n";
-    
-    std::cout << "ローカルで変更\n";
+    std::cout << "ローカルに変更\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
